@@ -2,7 +2,6 @@
   "name": "ebac_talks",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "cleanup": "rmdir /q /s .parcel-cache dist",
     "dev": "npm run cleanup && parcel src/index.html",
